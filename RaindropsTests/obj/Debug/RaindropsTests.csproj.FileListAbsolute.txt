@@ -1,0 +1,11 @@
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/RaindropsTests.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/RaindropsTests.pdb
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/nunit.framework.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/Raindrops_CSharp.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/Raindrops_CSharp.pdb
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/bin/Debug/nunit.framework.xml
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/obj/Debug/RaindropsTests.csprojAssemblyReference.cache
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/obj/Debug/RaindropsTests.csproj.CoreCompileInputs.cache
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/obj/Debug/RaindropsTests.csproj.CopyComplete
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/obj/Debug/RaindropsTests.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/RaindropsTests/obj/Debug/RaindropsTests.pdb

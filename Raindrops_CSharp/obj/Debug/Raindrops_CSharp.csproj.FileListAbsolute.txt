@@ -1,0 +1,6 @@
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/bin/Debug/Raindrops_CSharp.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/bin/Debug/Raindrops_CSharp.pdb
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/obj/Debug/Raindrops_CSharp.csprojAssemblyReference.cache
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/obj/Debug/Raindrops_CSharp.csproj.CoreCompileInputs.cache
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/obj/Debug/Raindrops_CSharp.dll
+/Users/Elaine/Projects/Raindrops_C#/Raindrops_CSharp/Raindrops_CSharp/obj/Debug/Raindrops_CSharp.pdb

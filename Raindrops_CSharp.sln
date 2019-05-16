@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raindrops_CSharp", "Raindrops_CSharp\Raindrops_CSharp.csproj", "{A0F2404F-1319-41DC-A3B1-BBD691BDBE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaindropsTests", "RaindropsTests\RaindropsTests.csproj", "{CD8D9B4F-6E63-4542-BA0F-3350A679E526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F2404F-1319-41DC-A3B1-BBD691BDBE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F2404F-1319-41DC-A3B1-BBD691BDBE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F2404F-1319-41DC-A3B1-BBD691BDBE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F2404F-1319-41DC-A3B1-BBD691BDBE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D9B4F-6E63-4542-BA0F-3350A679E526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D9B4F-6E63-4542-BA0F-3350A679E526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D9B4F-6E63-4542-BA0F-3350A679E526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D9B4F-6E63-4542-BA0F-3350A679E526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
