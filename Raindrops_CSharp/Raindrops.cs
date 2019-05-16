@@ -4,32 +4,32 @@ namespace Raindrops_CSharp
 {
     public class Raindrops
     {
-        public String Numbers(int choice)
+        public string Numbers(int choice)
         {
-           String output = "";
+           var output = "";
             
            if (choice % 3 == 0) output += "Pling";
            if (choice % 5 == 0) output += "Plang";
            if (choice % 7 == 0) output += "Plong";
-           if (String.IsNullOrEmpty(output)) output += choice;
+           if (string.IsNullOrEmpty(output)) output += choice;
 
            return output;
         }
 
         public static void main()
         {
-            Raindrops test = new Raindrops();
+            var test = new Raindrops();
 
-            String pling = test.Numbers(3);
+            var pling = test.Numbers(3);
             Console.WriteLine(pling);
-
-            String plang = test.Numbers(10);
+            
+            var plang = test.Numbers(10);
             Console.WriteLine(plang);
 
-            String plong = test.Numbers(14);
+            var plong = test.Numbers(14);
             Console.WriteLine(plong);
 
-            String showMeNumber = test.Numbers(8);
+            var showMeNumber = test.Numbers(8);
             Console.WriteLine(showMeNumber);
         }
     }

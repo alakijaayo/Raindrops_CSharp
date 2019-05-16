@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c2373ac-2fbc-45b0-9ad9-38db7bb1b9eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Raindrops_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Raindrops_CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RaindropsTests/obj/Debug/RaindropsTests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RaindropsTests/obj/Debug/RaindropsTests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,27 +13,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+            <state relative-caret-position="285">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
-                <marker date="1558001053363" expanded="true" signature="41:882" ph="{...}" />
-                <marker date="1558001053363" expanded="true" signature="70:880" ph="{...}" />
-                <marker date="1558001053363" expanded="true" signature="118:425" ph="{...}" />
-                <marker date="1558001053363" expanded="true" signature="460:874" ph="{...}" />
+                <marker date="1558003945411" expanded="true" signature="41:873" ph="{...}" />
+                <marker date="1558003945411" expanded="true" signature="70:871" ph="{...}" />
+                <marker date="1558003945411" expanded="true" signature="118:422" ph="{...}" />
+                <marker date="1558003945411" expanded="true" signature="457:865" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RaindropsTests/Tests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state relative-caret-position="210">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <marker date="1558001253958" expanded="false" signature="6:60" ph="..." />
                 <marker date="1558001253958" expanded="true" signature="86:1074" ph="{...}" />
@@ -48,16 +50,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RaindropsTest/Tests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RaindropsTests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RaindropsTests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/RaindropsTest/Tests.cs" />
-        <option value="$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs" />
         <option value="$PROJECT_DIR$/RaindropsTests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
@@ -114,7 +115,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Static Method.Raindrops_CSharp.Raindrops.main">
+  <component name="RunManager">
     <configuration name="Raindrops_CSharp.Raindrops.main" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
       <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -162,11 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557995586121</updated>
       <workItem from="1557995595826" duration="3797000" />
+      <workItem from="1558003571252" duration="373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3797000" />
+    <option name="totallyTimeSpent" value="4170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,23 +180,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1280" height="736" extended-state="0" />
+    <frame x="-1" y="23" width="1280" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.32919255" />
-      <window_info anchor="bottom" id="SVN Repositories" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32919255" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
@@ -202,19 +195,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="SVN Repositories" order="11" weight="0.32919255" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32919255" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,41 +230,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RaindropsTest/Tests.cs">
+    <entry file="file://$PROJECT_DIR$/RaindropsTest/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/RaindropsTests/Tests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
-            <marker date="1557999981402" expanded="true" signature="6:36" ph="..." />
-            <marker date="1557999981402" expanded="true" signature="61:219" ph="{...}" />
-            <marker date="1557999981402" expanded="true" signature="113:217" ph="{...}" />
-            <marker date="1557999981402" expanded="true" signature="164:211" ph="{...}" />
+            <marker date="1558001253958" expanded="false" signature="6:60" ph="..." />
+            <marker date="1558001253958" expanded="true" signature="86:1074" ph="{...}" />
+            <marker date="1558001253958" expanded="true" signature="137:1072" ph="{...}" />
+            <marker date="1558001253958" expanded="true" signature="188:1066" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Raindrops_CSharp/Raindrops.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
-            <marker date="1558001053363" expanded="true" signature="41:882" ph="{...}" />
-            <marker date="1558001053363" expanded="true" signature="70:880" ph="{...}" />
-            <marker date="1558001053363" expanded="true" signature="118:425" ph="{...}" />
-            <marker date="1558001053363" expanded="true" signature="460:874" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RaindropsTests/Tests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <marker date="1558001253958" expanded="false" signature="6:60" ph="..." />
-            <marker date="1558001253958" expanded="true" signature="86:1074" ph="{...}" />
-            <marker date="1558001253958" expanded="true" signature="137:1072" ph="{...}" />
-            <marker date="1558001253958" expanded="true" signature="188:1066" ph="{...}" />
+            <marker date="1558003945411" expanded="true" signature="41:873" ph="{...}" />
+            <marker date="1558003945411" expanded="true" signature="70:871" ph="{...}" />
+            <marker date="1558003945411" expanded="true" signature="118:422" ph="{...}" />
+            <marker date="1558003945411" expanded="true" signature="457:865" ph="{...}" />
           </folding>
         </state>
       </provider>
